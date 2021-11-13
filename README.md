@@ -1,1 +1,3 @@
 # javascript-homework
+
+Javascript Ödevleri 
